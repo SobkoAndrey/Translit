@@ -80,5 +80,6 @@ namespace TranslitMethod
 			Console.WriteLine(test);
 			Console.ReadLine();
 		}
+
 	}
 }
